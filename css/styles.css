@@ -72,6 +72,73 @@ line-height: 1.5;
 .fav-text {
 }
 .fav-icon {
-    
+
+}
+
+/* HEADER */
+.header {
+}
+.header-container {
+    display: flex;
+    align-items: center;
+    width: 1280px;
+    padding: 0 16px;
+    margin: 0 auto;
+}
+.header-navigation {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.header-logo {
+    display: inline-flex;
+    align-items: center;
+    margin: 10px 735px 10px 16px;
+    width: 66px;
+    height: 52px;
+    flex-shrink: 0;
+}
+.header-list {
+    display: flex;
+}
+.header-list-item {
+    margin-right: 28px;
+}
+.header-list-item:last-child {
+    margin-right: 30px;
+}
+.header-list-link {
+    display: block;
+    position: relative;
+    padding: 28px 0;
+    color: var(--Black, #2C2C2C);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.current {
+    position: relative;
+    color: #BBF330;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.header-button {
+    display: inline-flex;
+    padding: 6px 18px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    background: var(--Button-green, #BBF330);
+    color: var(--Black, #2C2C2C);
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 150%;  
 
 }
