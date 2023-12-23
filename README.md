@@ -1,1 +1,1 @@
-t.me/+J6Aw08ox6sl2NDY6
+https://t.me/+J6Aw08Ox6sI2NDY6
