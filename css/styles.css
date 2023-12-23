@@ -53,11 +53,10 @@ body {
 
 .section-offerings {
     background-color: #FFE550;
-    ;
+    
 
 background: var(--Button-green, #BBF330);
-min-width: 98px;
-height: 32px;
+
 cursor: pointer;
 border: none;
 color: var(--Black, #2C2C2C);
