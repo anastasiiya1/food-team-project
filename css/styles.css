@@ -70,88 +70,82 @@ body {
 .fav-text {
 }
 
-
 .customers {
-    background: #FFE550;
-    width: 1277px;
-        height: 620px;
+  background: #ffe550;
+  width: 1277px;
+  height: 620px;
 }
 .cust-header {
-    color: var(--Black, #2C2C2C);
-        font-family: Roboto;
-        font-size: 42px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-        padding-left: 32px;
-        padding-top: 140px;
+  color: var(--Black, #2c2c2c);
+  font-family: Roboto;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-left: 32px;
+  padding-top: 140px;
 }
 .cust-text {
-    color: var(--Black, #2C2C2C);
-        font-family: Roboto;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        padding-left: 32px;
-        padding-top: 20.4px;
+  color: var(--Black, #2c2c2c);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 32px;
+  padding-top: 20.4px;
 }
 .comments {
-    background-color: var(--White, #FEFEFE);
-    width: 501px;
-        height: 231.579px;
-        margin-top: 32.65px;
-        margin-left: 32px;
-        padding-top: 14.28px;
-        padding-left: 14px;
-        border-top-right-radius: 20px;
-        border-bottom-right-radius: 20px;
-        border-bottom-left-radius: 20px;
-    }
-    .comments-text {
-        color: var(--Black, #2C2C2C);
-            font-family: Roboto;
-            font-size: 18px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: normal;
-            padding-left: 14px;
-            padding-top: 28.56px;
-            padding-right: 14px;
-    }
-    .man {
-        padding-left: 14px;
-        padding-top: 42.81px;
-    }
-    .wrapper {
-        display: flex;
-    }
-    .name {
-        display: block;
-        padding-top: 44.81px;
-        padding-left: 16px;
-        color: var(--Black, #2C2C2C);
-            font-family: Roboto;
-            font-size: 14px;
-            font-style: normal;
-            font-weight: 500;
-            line-height: 21px;
-    }
-    .line {
-        background: #7EB101;
-        width: 1px;
-            height: 52px;
-            margin-top: 40.81px;
-            margin-left: 15px;
-    }
-    .coments-item {
-        display: flex;
-        gap: 139px;
-    }
-
-
-
-
+  background-color: var(--White, #fefefe);
+  width: 501px;
+  height: 231.579px;
+  margin-top: 32.65px;
+  margin-left: 32px;
+  padding-top: 14.28px;
+  padding-left: 14px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.comments-text {
+  color: var(--Black, #2c2c2c);
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-left: 14px;
+  padding-top: 28.56px;
+  padding-right: 14px;
+}
+.man {
+  padding-left: 14px;
+  padding-top: 42.81px;
+}
+.wrapper {
+  display: flex;
+}
+.name {
+  display: block;
+  padding-top: 44.81px;
+  padding-left: 16px;
+  color: var(--Black, #2c2c2c);
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 21px;
+}
+.line {
+  background: #7eb101;
+  width: 1px;
+  height: 52px;
+  margin-top: 40.81px;
+  margin-left: 15px;
+}
+.coments-item {
+  display: flex;
+  gap: 139px;
 }
 
 /* HEADER */
@@ -204,24 +198,19 @@ body {
 }
 
 .header-button {
-
-    display: inline-flex;
-    padding: 6px 18px;
-    justify-content: center;
-    align-items: center;
-    border-radius: 30px;
-    border: none;
-    cursor: pointer;
-    background: var(--Button-green, #BBF330);
-    color: var(--Black, #2C2C2C);
-    text-align: center;
-    font-family: Roboto, sans-serif;
-    font-size: 13px;
-    font-style: normal;
-    font-weight: bold;
-    line-height: 150%;  
-
+  display: inline-flex;
+  padding: 6px 18px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  background: var(--Button-green, #bbf330);
+  color: var(--Black, #2c2c2c);
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 150%;
 }
-
-
-
