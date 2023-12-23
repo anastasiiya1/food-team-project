@@ -39,6 +39,7 @@ body {
 
 .button {
     border-radius: 30px;
+
     background: var(--Button-green, #BBF330);
     min-width: 98px;
     height: 32px;
@@ -53,4 +54,25 @@ body {
 .section-offerings {
     background-color: #FFE550;
     ;
+
+background: var(--Button-green, #BBF330);
+min-width: 98px;
+height: 32px;
+cursor: pointer;
+border: none;
+color: var(--Black, #2C2C2C);
+font-size: 13px;
+font-weight: 500;
+line-height: 1.5;
+}
+
+.fav {
+}
+.fav-title {
+}
+.fav-text {
+}
+.fav-icon {
+    
+
 }
