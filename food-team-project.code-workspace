@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "food-team-project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
