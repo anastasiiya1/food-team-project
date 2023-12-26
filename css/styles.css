@@ -38,7 +38,6 @@ body {
 
 .button {
   border-radius: 30px;
-
   background: var(--Button-green, #bbf330);
   min-width: 98px;
   height: 32px;
@@ -49,6 +48,59 @@ body {
   font-weight: 500;
   line-height: 1.5;
 }
+
+/* Hero section*/
+.hero-section {
+    background-color: var(--White, #FEFEFE);
+    display: flex;
+    justify-content: space-between;
+} 
+
+.hero-div {
+    display: block;
+    width: 511px;
+}
+
+.hero-title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1.2; 
+    margin-top: 159px;
+}
+
+.hero-text {
+    line-height: 1.5;
+    margin-top: 28px;
+}
+
+.hero-btn {
+    display: block;
+    margin-top: 40px;
+    padding: 6px 18px;
+    justify-content: center;
+    align-items: center;
+    width: 103px;
+    height: 42px;
+
+    color: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.95;
+}
+
+.hero-img-div {
+    width: 580px;
+    height: 580px;
+    flex-shrink: 0;
+    border-radius: 580px;
+    border: 26px solid var(--Yellow-main, #FFE550);
+    background-color: transparent;
+    margin-top: 14px;
+    margin-right: 30px;
+    margin-bottom: 69px;
+}
+
+/* offerings Dima */
 
 .section-offerings {
   background-color: #ffe550;
